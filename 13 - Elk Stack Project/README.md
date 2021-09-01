@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 Description of Topology
 
-[Diagram](Images/Network Diagram.PNG)
+[Diagram](Images/Network_Diagram.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. 
 
