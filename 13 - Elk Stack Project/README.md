@@ -85,7 +85,7 @@ Launch docker container: elk
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[Docker](Docker_PS.PNG)
+[Docker](Images/Docker_PS.PNG)
 
 
 
