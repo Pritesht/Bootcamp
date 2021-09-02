@@ -87,6 +87,8 @@ The following screenshot displays the result of running `docker ps` after succes
 
 [Docker](Images/Docker_PS.PNG)
 
+[Elk_Server_Docker_Service](Images/Elk_Server_Docker.PNG)
+
 
 
 ### Target Machines & Beats
