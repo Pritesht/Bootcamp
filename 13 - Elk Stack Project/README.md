@@ -65,8 +65,8 @@ A summary of the access policies in place can be found in the table below.
 | Web-2    | No                  | 10.1.0.4             |
 Elk-Server-1| yes                | 1.145.197.166, 10.1.0.4 |
 
-![Acces Policy](Images/AccesPoliciesforRTX_RED_SG.PNG)
-![Access Policy for Elk Server](AccessPoliciesforELK_Server.PNG)
+[Acces Policy](Images/AccesPoliciesforRTX_RED_SG.PNG)
+[Access Policy for Elk Server](AccessPoliciesforELK_Server.PNG)
 
 
 ### Elk Configuration
@@ -84,10 +84,8 @@ Launch docker container: elk
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-azureuser@Elk-Server-1:~$ sudo docker ps -a
-CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS       PORTS                                                                              NAMES
-95f1dd8eb371   sebp/elk:761   "/usr/local/bin/star…"   2 days ago   Up 2 hours   0.0.0.0:5044->5044/tcp, 0.0.0.0:5601->5601/tcp, 0.0.0.0:9200->9200/tcp, 9300/tcp   elk
-azureuser@Elk-Server-1:~$
+[Docker PS](Docker_PS.PNG)
+
 
 
 ### Target Machines & Beats
