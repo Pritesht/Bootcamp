@@ -65,8 +65,9 @@ A summary of the access policies in place can be found in the table below.
 | Web-2    | No                  | 10.1.0.4             |
 Elk-Server-1| yes                | 1.145.197.166, 10.1.0.4 |
 
-[Access_Policy](Images/AccesPoliciesforRTX_RED_SG.PNG)
-[Access_Policy_for_Elk_Server](Images/AccessPoliciesforELK_Server.PNG)
+[Access Policy](Images/AccessPoliciesforRTX_RED_SG.PNG)
+
+[Access Policy for ElkServer](Images/AccessPoliciesforElk_Server.PNG)
 
 
 ### Elk Configuration
@@ -84,7 +85,7 @@ Launch docker container: elk
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[Docker_PS](Docker_PS.PNG)
+[Docker](Docker_PS.PNG)
 
 
 
